@@ -23,7 +23,7 @@
 21. **Play Video** (https://github.com/DeLaSalleUniversity-Manila/playvideo-RgComendador.git)
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-RgComendador.git)
 23. Mini-database with Text file 
-24. Settings Activity 
+24. **Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-RgComendador.git) 
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-RgComendador.git)
 26. **Grocery App** (https://github.com/DeLaSalleUniversity-Manila/groceryapp-RgComendador.git)
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-RgComendador.git)
