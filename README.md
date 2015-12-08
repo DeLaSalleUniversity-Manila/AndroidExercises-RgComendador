@@ -96,7 +96,7 @@
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-RgComendador.git)
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-RgComendador.git)
 97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-RgComendador.git)
-98. Super Jumper 
+98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-RgComendador.git) 
 99. Super Mario (Android Clone) 
 100. Google's Santa Tracker (https://github.com/DeLaSalleUniversity-Manila/santa-tracker-android)
 101. Forkhub (https://github.com/DeLaSalleUniversity-Manila/ForkHub)
