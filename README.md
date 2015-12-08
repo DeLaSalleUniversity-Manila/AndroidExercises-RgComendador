@@ -94,7 +94,7 @@
 93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/greenwall-RgComendador.git)
 94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-RgComendador.git)
 95. **9GAG (Unofficial App)** (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-RgComendador.git)
-96. MP Android Chart Demo 
+96. **MP Android Chart Demo ** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-RgComendador.git)
 97. Puzzle Collection 
 98. Super Jumper 
 99. Super Mario (Android Clone) 
