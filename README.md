@@ -90,9 +90,9 @@
 89. San Angeles 
 90. OpenGL ES 3.0 Demo 
 91. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-RgComendador.git) 
-92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-RgComendador.git) 
-93. Octodroid 
-94. Flappy Bird (Clone) 
+92. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/octodroid-RgComendador.git) 
+93. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/greenwall-RgComendador.git)
+94. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-RgComendador.git)
 95. 9GAG (Unofficial App)
 96. MP Android Chart Demo 
 97. Puzzle Collection 
