@@ -97,6 +97,6 @@
 96. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-RgComendador.git)
 97. **Puzzle Collection** (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-RgComendador.git)
 98. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-RgComendador.git) 
-99. Super Mario (Android Clone) 
-100. Google's Santa Tracker (https://github.com/DeLaSalleUniversity-Manila/santa-tracker-android)
+99. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/supermario-RgComendador.git)
+100. **Google's Santa Tracker (https://github.com/DeLaSalleUniversity-Manila/santa-tracker-android)** (https://github.com/DeLaSalleUniversity-Manila/santatracker-RgComendador.git)
 101. Forkhub (https://github.com/DeLaSalleUniversity-Manila/ForkHub)
