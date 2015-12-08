@@ -11,7 +11,7 @@
 9. **Text-to-Speech App** (https://github.com/DeLaSalleUniversity-Manila/text2speechdemo-RgComendador.git)
 10. **MyMusic App - Service** (https://github.com/DeLaSalleUniversity-Manila/mymusicapp-RgComendador.git)
 11. **Splash Activity** (https://github.com/DeLaSalleUniversity-Manila/splashactivitydemo-RgComendador.git)
-12. **Menu Activity** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-RgComendador.git)
+12. **Menu Activity** https://github.com/DeLaSalleUniversity-Manila/menuactivitydemo-RgComendador.git)
 13. **Help Activity** (https://github.com/DeLaSalleUniversity-Manila/helpactivitydemo-RgComendador.git)
 14. **Green Target** (https://github.com/DeLaSalleUniversity-Manila/greentarget-RgComendador.git)
 15. **Take a Picture** (https://github.com/DeLaSalleUniversity-Manila/takeapicture-RgComendador.git)
