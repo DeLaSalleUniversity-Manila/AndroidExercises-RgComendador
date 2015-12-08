@@ -19,7 +19,7 @@
 17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/starratingdemo-RgComendador.git)
 18. **Google Map Marker for DLSU** (https://github.com/DeLaSalleUniversity-Manila/googlemapsdemo-RgComendador.git)
 19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/screenslidesdemo-RgComendador.git) 
-20. ViewPager with Text-to-Speech Demo 
+20. **ViewPager with Text-to-Speech Demo ** (https://github.com/DeLaSalleUniversity-Manila/viewpagerwithtexttospeech-RgComendador.git)
 21. Play Video 
 22. **SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-RgComendador.git)
 23. Mini-database with Text file 
